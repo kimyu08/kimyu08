@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Yong Uk Kim&fontSize=90" />
+<align=center img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Yong Uk Kim&fontSize=90" />
 
 
 ### Hi there 👋
