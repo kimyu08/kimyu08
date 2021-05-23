@@ -18,7 +18,10 @@
   <img src="https://img.shields.io/badge/MySQL-FFFF09?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
-
+<div align=center>
+  <h3>😄Ask me about😄</h3>
+  <img src="https://img.shields.io/badge/Mail:kimyu08@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>  
+</div>
 
 <!--
 **kimyu08/kimyu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
