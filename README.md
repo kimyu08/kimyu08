@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Yong Uk Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=6332F6&height=300&section=header&text=%20Yong Uk Kim&fontSize=90" />
 </div>
 
 <h3 align=center>Hi there 👋</h3>
@@ -14,7 +14,7 @@
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=JavaSpring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-FFFF09?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
