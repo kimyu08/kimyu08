@@ -1,7 +1,8 @@
-<align=center img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Yong Uk Kim&fontSize=90" />
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20Yong Uk Kim&fontSize=90" />
+</div>
 
-
-### Hi there 👋
+<h3 align=center>Hi there 👋</h3>
 
 <h3 align=center>⚡Tech Stack⚡</h3>
 
