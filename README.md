@@ -10,12 +10,15 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-AA00FF?style=flat-square&logo=jsp&logoColor=white">
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Css-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-31B8BB?style=flat-square&logo=python&logoColor=white">
 </div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-FFFF09?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FFFF09?style=flat-square&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Oracle-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mybatis-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </div>
 
 <div align=center>
