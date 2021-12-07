@@ -7,10 +7,10 @@
 <h3 align=center>⚡Tech Stack⚡</h3>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FF3399?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-AA00FF?style=flat-square&logo=jsp&logoColor=white">
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Css-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css-6DB33F?style=flat-square&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-31B8BB?style=flat-square&logo=python&logoColor=white">
 </div>
 
