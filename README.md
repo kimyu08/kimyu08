@@ -17,8 +17,8 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-FFFF09?style=flat-square&logo=mysql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OracleDB-6DB33F?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-6DB33F?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OracleDB-0067a3?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-5e7e9b?style=flat-square&logo=mariadb&logoColor=white"/>
 </div>
 
 <div align=center>
